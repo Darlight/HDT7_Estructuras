@@ -15,10 +15,10 @@ class Association<K,V>{
         this.value = value;
     }
     public K getKey() {
-        return key;
+        return this.key;
     }
     public V getValue() {
-        return value;
+        return this.value;
     }
 
 }

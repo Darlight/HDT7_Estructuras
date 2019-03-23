@@ -14,7 +14,7 @@ class Node {
     Node izquierda, derecha;
 
     Node(Association valor) {
-        this.valor= valor;
+        this.valor = valor;
         left = right = null;
     }
 }
