@@ -7,8 +7,8 @@ Association.java
  */
 
 class Association<K,V>{
-    K key;
-    V value;
+    private K key; //Ingles
+    private V value; // Español
 
     public Association(K key, V value) {
         this.key = key;
@@ -19,9 +19,6 @@ class Association<K,V>{
     }
     public V getValue() {
         return value;
-    }
-    public V setValue(V value) {
-        return this.value = value;
     }
 
 }

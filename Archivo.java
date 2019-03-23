@@ -1,3 +1,10 @@
+/*
+Universidad del Valle de Guatemala
+Seccion 10 - Pareja 9
+Josue Sagastume - 18173
+Mario Perdomo - 18029
+Archivo.java
+ */
 import java.io.*;
 public class Archivo{
 
